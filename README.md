@@ -1,4 +1,4 @@
-[### This is a locally runnable version of the [Getting Started with Redux Tutorial](https://egghead.io/series/getting-started-with-redux) by Dan Abramov
+### This is a locally runnable version of the [Getting Started with Redux Tutorial](https://egghead.io/series/getting-started-with-redux) by Dan Abramov
 
 ### To run it:
 
